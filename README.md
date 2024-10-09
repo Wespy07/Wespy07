@@ -3,7 +3,7 @@ Welcome to my GitHub profile! I have a knack for understanding how the web opera
 
 ### What I Do
 
-- **Web Development:** I enjoy building dynamic and responsive websites using modern web technologies.<br>
+- **Frontend Development:** I enjoy building dynamic and responsive frontend for websites using modern web technologies.<br>
 - **Learning & Growth:** I’m always eager to learn new skills and stay updated with the latest trends in the tech space.
 #
 ### My Techstack
