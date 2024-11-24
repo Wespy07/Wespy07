@@ -1,4 +1,4 @@
-# Hi👋, you can call me WESPY.
+# Hi👋, you can call me Wespy
 Welcome to my GitHub profile! I have a knack for understanding how the web operates, designing websites, and diving into web technologies.
 
 ### What I Do
