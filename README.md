@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I have a knack for understanding how the web opera
 
 #
 ### My Github Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wespy07&theme=radical&hide_border=false&line_height=27) &nbsp;&nbsp; ![](https://github-readme-stats.vercel.app/api?username=wespy07&show_icons=true&theme=radical&line_height=27&rank_icon=github) &nbsp;&nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=wespy07&theme=radical&hide_border=false&line_height=27)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wespy07&theme=radical&hide_border=false&line_height=27) &nbsp;&nbsp; ![](https://github-readme-streak-stats.herokuapp.com/?user=wespy07&theme=radical&hide_border=false&line_height=27)
 <br>
 #
 ![](https://visitcount.itsvg.in/api?id=wespy07&icon=5&color=6)
