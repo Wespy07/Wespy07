@@ -7,6 +7,7 @@
 #
 ### My Github Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wespy07&theme=radical&hide_border=false&line_height=27) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=wespy07&theme=radical&hide_border=false&line_height=27)
 <br>
 #
 ![](https://visitor-badge.laobi.icu/badge?page_id=wespy07.visitor-badge&style=flat-square&color=6) 
