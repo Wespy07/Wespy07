@@ -6,7 +6,7 @@
 
 #
 ### My Github Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wespy07&theme=radical&hide_border=false&line_height=27) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wespy07&theme=radical&hide_border=false&line_height=27) &nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wespy07&theme=radical&hide_border=false&line_height=27)
 <br>
 #
